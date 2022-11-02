@@ -2,7 +2,13 @@
 Source from https://www.youtube.com/watch?v=az2VNMgNFrk
 
 How to use
-cd your-project
+
+> cd your-project
+
 > npm init -y
+
 > npm i amqplib --save-dev
-> node conumser.js
+
+> node producer.js
+
+> node consumer.js
